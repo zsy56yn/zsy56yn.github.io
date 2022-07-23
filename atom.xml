@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>柠檬树</title>
+  <title>LemonTree</title>
   
   <subtitle>我既没有愁苦到足以成为诗人，又没有冷漠到像个哲学家，但我清醒到足以成为一个废人。——《眼泪与圣徒》</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://alex1504.gitee.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-07-23T03:09:03.226Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://alex1504.gitee.io/"/>
+  <updated>2022-07-23T08:14:17.166Z</updated>
+  <id>http://alex1504.gitee.io/</id>
   
   <author>
     <name>Zhao sy</name>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2022/07/23/hello-world/"/>
-    <id>http://example.com/2022/07/23/hello-world/</id>
+    <title>杰哥大腹便便</title>
+    <link href="http://alex1504.gitee.io/2022/07/23/%E6%9D%B0%E5%93%A5%E5%A4%A7%E8%85%B9%E4%BE%BF%E4%BE%BF/"/>
+    <id>http://alex1504.gitee.io/2022/07/23/%E6%9D%B0%E5%93%A5%E5%A4%A7%E8%85%B9%E4%BE%BF%E4%BE%BF/</id>
+    <published>2022-07-23T08:12:19.000Z</published>
+    <updated>2022-07-23T08:14:17.166Z</updated>
+    
+    <content type="html"><![CDATA[<p>2006A班的李磊杰同学：<br>    床上一躺</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;2006A班的李磊杰同学：&lt;br&gt;    床上一躺&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="人才" scheme="http://alex1504.gitee.io/tags/%E4%BA%BA%E6%89%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你好 World</title>
+    <link href="http://alex1504.gitee.io/2022/07/23/hello-world/"/>
+    <id>http://alex1504.gitee.io/2022/07/23/hello-world/</id>
     <published>2022-07-23T03:14:57.515Z</published>
-    <updated>2022-07-23T03:09:03.226Z</updated>
+    <updated>2022-07-23T08:07:59.902Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <span class="exturl"><a class="exturl__link"   href="https://hexo.io/" >Hexo</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>! This is your very first post. Check <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/" >documentation</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> or you can ask me on <span class="exturl"><a class="exturl__link"   href="https://github.com/hexojs/hexo/issues" >GitHub</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>.</p>        <h2 id="Quick-Start"   >          <a href="#Quick-Start" class="heading-link"><i class="fas fa-link"></i></a><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2>              <h3 id="Create-a-new-post"   >          <a href="#Create-a-new-post" class="heading-link"><i class="fas fa-link"></i></a><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/writing.html" >Writing</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>        <h3 id="Run-server"   >          <a href="#Run-server" class="heading-link"><i class="fas fa-link"></i></a><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/server.html" >Server</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>        <h3 id="Generate-static-files"   >          <a href="#Generate-static-files" class="heading-link"><i class="fas fa-link"></i></a><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/generating.html" >Generating</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>        <h3 id="Deploy-to-remote-sites"   >          <a href="#Deploy-to-remote-sites" class="heading-link"><i class="fas fa-link"></i></a><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>]]></content>
     
@@ -33,6 +56,8 @@
     
     
     
+    
+    <category term="test" scheme="http://alex1504.gitee.io/tags/test/"/>
     
   </entry>
   

@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/07/23/hello-world/</loc>
+    <loc>http://alex1504.gitee.io/2022/07/23/%E6%9D%B0%E5%93%A5%E5%A4%A7%E8%85%B9%E4%BE%BF%E4%BE%BF/</loc>
+    
+    <lastmod>2022-07-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://alex1504.gitee.io/2022/07/23/hello-world/</loc>
+    
+    <lastmod>2022-07-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://alex1504.gitee.io/categories/index.html</loc>
+    
+    <lastmod>2022-07-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://alex1504.gitee.io/tags/index.html</loc>
     
     <lastmod>2022-07-23</lastmod>
     
@@ -12,12 +39,26 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://alex1504.gitee.io/</loc>
     <lastmod>2022-07-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://alex1504.gitee.io/tags/%E4%BA%BA%E6%89%8D/</loc>
+    <lastmod>2022-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://alex1504.gitee.io/tags/test/</loc>
+    <lastmod>2022-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
