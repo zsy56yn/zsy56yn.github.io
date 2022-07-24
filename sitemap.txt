@@ -3,5 +3,5 @@ http://alex1504.gitee.io/2022/07/23/hello-world/
 http://alex1504.gitee.io/categories/index.html
 http://alex1504.gitee.io/tags/index.html
 http://alex1504.gitee.io/
-http://alex1504.gitee.io/tags/test/
 http://alex1504.gitee.io/tags/%E4%BA%BA%E6%89%8D/
+http://alex1504.gitee.io/tags/test/

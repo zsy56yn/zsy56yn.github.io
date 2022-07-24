@@ -6,7 +6,7 @@
   <link href="http://alex1504.gitee.io/atom.xml" rel="self"/>
   
   <link href="http://alex1504.gitee.io/"/>
-  <updated>2022-07-23T08:50:05.861Z</updated>
+  <updated>2022-07-24T12:27:44.548Z</updated>
   <id>http://alex1504.gitee.io/</id>
   
   <author>
@@ -21,14 +21,16 @@
     <link href="http://alex1504.gitee.io/2022/07/23/%E6%9D%B0%E5%93%A5%E5%A4%A7%E8%85%B9%E4%BE%BF%E4%BE%BF/"/>
     <id>http://alex1504.gitee.io/2022/07/23/%E6%9D%B0%E5%93%A5%E5%A4%A7%E8%85%B9%E4%BE%BF%E4%BE%BF/</id>
     <published>2022-07-23T08:12:19.000Z</published>
-    <updated>2022-07-23T08:50:05.861Z</updated>
+    <updated>2022-07-24T12:27:44.548Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <span class="exturl"><a class="exturl__link"   href="https://yzr01-6gz07f1rb0560f69-1312517196.tcloudbaseapp.com/" >战略合作伙伴</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span><br>2006A班的李磊杰同学：<br>    床上一躺</p>]]></content>
+    <content type="html"><![CDATA[        <h1 id="Welcome-to-战略合作伙伴"   >          <a href="#Welcome-to-战略合作伙伴" class="heading-link"><i class="fas fa-link"></i></a><a href="#Welcome-to-战略合作伙伴" class="headerlink" title="Welcome to 战略合作伙伴"></a>Welcome to <span class="exturl"><a class="exturl__link"   href="https://yzr01-6gz07f1rb0560f69-1312517196.tcloudbaseapp.com/" >战略合作伙伴</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></h1>      <p>2006A班的李磊杰同学：<br><img src="/img/body2.jpg" alt="这是一张图片"><br>床上一躺</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://yzr01-6gz07f1rb0560f69-1312517196.tcloudbaseapp.com/&quot; &gt;战略合作伙伴&lt;/a&gt;</summary>
+    <summary type="html">
+        &lt;h1 id=&quot;Welcome-to-战略合作伙伴&quot;   &gt;
+          &lt;a href=&quot;#Welcome-to-战略合作伙伴&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;</summary>
       
     
     
