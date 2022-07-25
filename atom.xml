@@ -6,7 +6,7 @@
   <link href="http://alex1504.gitee.io/atom.xml" rel="self"/>
   
   <link href="http://alex1504.gitee.io/"/>
-  <updated>2022-07-25T01:09:13.709Z</updated>
+  <updated>2022-07-25T10:03:17.873Z</updated>
   <id>http://alex1504.gitee.io/</id>
   
   <author>
@@ -17,22 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>记录一下</title>
+    <title>encrypt插件</title>
     <link href="http://alex1504.gitee.io/2022/07/25/7.25%E9%9A%8F%E7%AC%94/"/>
     <id>http://alex1504.gitee.io/2022/07/25/7.25%E9%9A%8F%E7%AC%94/</id>
     <published>2022-07-25T01:04:03.000Z</published>
-    <updated>2022-07-25T01:09:13.709Z</updated>
+    <updated>2022-07-25T10:03:17.873Z</updated>
     
-    <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
+    <content type="html"><![CDATA[        <h2 id="关于下载hexo-blog-encrypt插件后再次启动hexo报错"   >          <a href="#关于下载hexo-blog-encrypt插件后再次启动hexo报错" class="heading-link"><i class="fas fa-link"></i></a><a href="#关于下载hexo-blog-encrypt插件后再次启动hexo报错" class="headerlink" title="关于下载hexo-blog-encrypt插件后再次启动hexo报错"></a>关于下载hexo-blog-encrypt插件后再次启动hexo报错</h2>      <pre><code>下午本来想给博客弄一个加密文章程序,选择了hexo-blog-encrypt插件.</code></pre><p><img src="/img/blogImg/%E7%A7%81%E5%AF%86%E6%96%87%E7%AB%A0_LI.jpg" alt="hexo-blog-encrypt插件安装"></p><pre><code>安装完毕后本来想着可以美滋滋的写一下加密文章，结果执行hexo s 的时候却发生了异常. loader：936</code></pre><p><img src="/img/blogImg/error.png" alt="异常图片"></p><pre><code>在网上查了很多方法尝试了重新安装和更新npm 结果依然没有什么用应该是安装插件的时候系统误删除了主要文件一系列的排查下发现是npm文件下node_modules文件的问题</code></pre><p><img src="/img/blogImg/ZP@600KF5MB6O7~~7U_YT3R.png" alt="错误文件"></p><pre><code>文件下的hexo-cli文件在安装插件的时候被删除掉了</code></pre><p><img src="/img/blogImg/15~FH%7D%5BF$I2W%60K%25JT~G74YF.png" alt="错误文件"></p><p>   Tips: 最后重新安装了下hexo才解决问题</p><figure class="highlight plaintext"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">安装代码: npm install -g hexo-cli</span><br></pre></td></tr></table></div></figure>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h1&gt;</summary>
+    <summary type="html">
+        &lt;h2 id=&quot;关于下载hexo-blog-encrypt插件后再次启动hexo报错&quot;   &gt;
+          &lt;a href=&quot;#关于下载hexo-blog-encrypt插件后再次启动hexo报错&quot; class=&quot;heading-link&quot;&gt;&lt;i cla</summary>
       
     
     
     
+    
+    <category term="encrypt插件" scheme="http://alex1504.gitee.io/tags/encrypt%E6%8F%92%E4%BB%B6/"/>
     
   </entry>
   
@@ -65,7 +69,7 @@
     <link href="http://alex1504.gitee.io/2022/07/23/hello-world/"/>
     <id>http://alex1504.gitee.io/2022/07/23/hello-world/</id>
     <published>2022-07-23T03:14:57.515Z</published>
-    <updated>2022-07-25T01:24:31.504Z</updated>
+    <updated>2022-07-25T01:31:53.570Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <span class="exturl"><a class="exturl__link"   href="https://hexo.io/" >Hexo</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>! This is your very first post. Check <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/" >documentation</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> or you can ask me on <span class="exturl"><a class="exturl__link"   href="https://github.com/hexojs/hexo/issues" >GitHub</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>.</p>        <h2 id="Quick-Start"   >          <a href="#Quick-Start" class="heading-link"><i class="fas fa-link"></i></a><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2>              <h3 id="Create-a-new-post"   >          <a href="#Create-a-new-post" class="heading-link"><i class="fas fa-link"></i></a><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/writing.html" >Writing</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>        <h3 id="Run-server"   >          <a href="#Run-server" class="heading-link"><i class="fas fa-link"></i></a><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/server.html" >Server</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>        <h3 id="Generate-static-files"   >          <a href="#Generate-static-files" class="heading-link"><i class="fas fa-link"></i></a><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/generating.html" >Generating</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>        <h3 id="Deploy-to-remote-sites"   >          <a href="#Deploy-to-remote-sites" class="heading-link"><i class="fas fa-link"></i></a><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>]]></content>
     
