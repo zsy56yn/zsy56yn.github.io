@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://alex1504.gitee.io/2022/07/26/Maven/</loc>
+    
+    <lastmod>2022-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://alex1504.gitee.io/2022/07/25/7.25%E9%9A%8F%E7%AC%94/</loc>
     
-    <lastmod>2022-07-25</lastmod>
+    <lastmod>2022-07-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +58,7 @@
 
   <url>
     <loc>http://alex1504.gitee.io/</loc>
-    <lastmod>2022-07-25</lastmod>
+    <lastmod>2022-07-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,25 +66,39 @@
   
   <url>
     <loc>http://alex1504.gitee.io/tags/encrypt%E6%8F%92%E4%BB%B6/</loc>
-    <lastmod>2022-07-25</lastmod>
+    <lastmod>2022-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://alex1504.gitee.io/tags/%E4%BA%BA%E6%89%8D/</loc>
-    <lastmod>2022-07-25</lastmod>
+    <loc>http://alex1504.gitee.io/tags/Maven/</loc>
+    <lastmod>2022-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://alex1504.gitee.io/tags/test/</loc>
-    <lastmod>2022-07-25</lastmod>
+    <lastmod>2022-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://alex1504.gitee.io/tags/%E4%BA%BA%E6%89%8D/</loc>
+    <lastmod>2022-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>http://alex1504.gitee.io/categories/Maven/</loc>
+    <lastmod>2022-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

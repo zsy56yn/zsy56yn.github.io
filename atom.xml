@@ -6,7 +6,7 @@
   <link href="http://alex1504.gitee.io/atom.xml" rel="self"/>
   
   <link href="http://alex1504.gitee.io/"/>
-  <updated>2022-07-25T10:10:01.987Z</updated>
+  <updated>2022-07-26T07:26:54.018Z</updated>
   <id>http://alex1504.gitee.io/</id>
   
   <author>
@@ -17,20 +17,46 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Maven</title>
+    <link href="http://alex1504.gitee.io/2022/07/26/Maven/"/>
+    <id>http://alex1504.gitee.io/2022/07/26/Maven/</id>
+    <published>2022-07-26T06:47:07.000Z</published>
+    <updated>2022-07-26T07:26:54.018Z</updated>
+    
+    <content type="html"><![CDATA[        <h2 id="1-maven是什么"   >          <a href="#1-maven是什么" class="heading-link"><i class="fas fa-link"></i></a><a href="#1-maven是什么" class="headerlink" title="1.maven是什么"></a>1.maven是什么</h2>      <p>Maven是本质是一个项目管理工具，将项目开发和管理过程抽象成一个项目对象模型: <font color="red">POM(Project  Object  Model): 项目对象模型</font><br><img src="/img/blogImg/mavenImg/maven.jpg" alt="maven"></p>        <h2 id="2-Maven作用"   >          <a href="#2-Maven作用" class="heading-link"><i class="fas fa-link"></i></a><a href="#2-Maven作用" class="headerlink" title="2.Maven作用"></a>2.Maven作用</h2>      <p>(1).项目构建：提供标准的，跨平台的自动化项目构建方式<br>(2).依赖管理：方便快捷的管理项目依赖的资源（jar包），避免资源间的版本冲突问题<br>(3).统一开发结构： 提供标准的，统一项目规范</p>        <h2 id="3-Maven安装"   >          <a href="#3-Maven安装" class="heading-link"><i class="fas fa-link"></i></a><a href="#3-Maven安装" class="headerlink" title="3.Maven安装"></a>3.Maven安装</h2>      <p>(1).下载解压 采用英文路径<br><img src="/img/blogImg/mavenImg/maven2.jpg" alt="maven2"><br>(2).配置环境变量<br><img src="/img/blogImg/mavenImg/maven4.jpg" alt="maven2"><br><img src="/img/blogImg/mavenImg/maven5.jpg" alt="maven2"><br>(3).CMD 查看是否安装成功<br><img src="/img/blogImg/mavenImg/maven3.jpg" alt="maven2"></p><figure class="highlight plaintext"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">Maven命令参数</span><br><span class="line">mvn -v, --version 显示版本信息</span><br><span class="line">mvn -V, --show-version 显示版本信息后继续执行Maven其他目标</span><br><span class="line">mvn -h, --help 显示帮助信息</span><br></pre></td></tr></table></div></figure>        <h2 id="3-Maven常用的cmd指令"   >          <a href="#3-Maven常用的cmd指令" class="heading-link"><i class="fas fa-link"></i></a><a href="#3-Maven常用的cmd指令" class="headerlink" title="3.Maven常用的cmd指令"></a>3.Maven常用的cmd指令</h2>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">清    理： mvn clean</span><br><span class="line">运行测试：mvn <span class="built_in">test</span></span><br><span class="line">产生site：mvn site</span><br><span class="line">打   包：mvn package</span><br><span class="line">编   译： mvn compile</span><br><span class="line">安   装： mvn install</span><br></pre></td></tr></table></div></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">
+        &lt;h2 id=&quot;1-maven是什么&quot;   &gt;
+          &lt;a href=&quot;#1-maven是什么&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#1-maven是什么&quot; c</summary>
+      
+    
+    
+    
+    <category term="Maven" scheme="http://alex1504.gitee.io/categories/Maven/"/>
+    
+    
+    <category term="Maven" scheme="http://alex1504.gitee.io/tags/Maven/"/>
+    
+  </entry>
+  
+  <entry>
     <title>encrypt插件</title>
     <link href="http://alex1504.gitee.io/2022/07/25/7.25%E9%9A%8F%E7%AC%94/"/>
     <id>http://alex1504.gitee.io/2022/07/25/7.25%E9%9A%8F%E7%AC%94/</id>
     <published>2022-07-25T01:04:03.000Z</published>
-    <updated>2022-07-25T10:10:01.987Z</updated>
+    <updated>2022-07-26T07:05:51.574Z</updated>
     
-    <content type="html"><![CDATA[        <h2 id="关于下载hexo-blog-encrypt插件后再次启动hexo报错"   >          <a href="#关于下载hexo-blog-encrypt插件后再次启动hexo报错" class="heading-link"><i class="fas fa-link"></i></a><a href="#关于下载hexo-blog-encrypt插件后再次启动hexo报错" class="headerlink" title="关于下载hexo-blog-encrypt插件后再次启动hexo报错"></a>关于下载hexo-blog-encrypt插件后再次启动hexo报错</h2>      <pre><code>下午本来想给博客弄一个加密文章程序,选择了hexo-blog-encrypt插件.</code></pre><p><img src="/img/blogImg/%E7%A7%81%E5%AF%86%E6%96%87%E7%AB%A0_LI.jpg" alt="hexo-blog-encrypt插件安装"></p><span id="more"></span><pre><code>安装完毕后本来想着可以美滋滋的写一下加密文章，结果执行hexo s 的时候却发生了异常. loader：936</code></pre><p><img src="/img/blogImg/error.png" alt="异常图片"></p><pre><code>在网上查了很多方法尝试了重新安装和更新npm 结果依然没有什么用应该是安装插件的时候系统误删除了主要文件一系列的排查下发现是npm文件下node_modules文件的问题</code></pre><p><img src="/img/blogImg/ZP@600KF5MB6O7~~7U_YT3R.png" alt="错误文件"></p><pre><code>文件下的hexo-cli文件在安装插件的时候被删除掉了</code></pre><p><img src="/img/blogImg/15~FH%7D%5BF$I2W%60K%25JT~G74YF.png" alt="错误文件"></p><p>   Tips: 最后重新安装了下hexo才解决问题</p><figure class="highlight plaintext"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">安装代码: npm install -g hexo-cli</span><br></pre></td></tr></table></div></figure>]]></content>
+    <content type="html"><![CDATA[        <h2 id="关于下载hexo-blog-encrypt插件后再次启动hexo报错"   >          <a href="#关于下载hexo-blog-encrypt插件后再次启动hexo报错" class="heading-link"><i class="fas fa-link"></i></a><a href="#关于下载hexo-blog-encrypt插件后再次启动hexo报错" class="headerlink" title="关于下载hexo-blog-encrypt插件后再次启动hexo报错"></a>关于下载hexo-blog-encrypt插件后再次启动hexo报错</h2>      <pre><code>下午本来想给博客弄一个加密文章程序,选择了hexo-blog-encrypt插件.</code></pre><p><img src="/img/blogImg/encrypt/%E7%A7%81%E5%AF%86%E6%96%87%E7%AB%A0_LI.jpg" alt="hexo-blog-encrypt插件安装"></p><span id="more"></span><pre><code>安装完毕后本来想着可以美滋滋的写一下加密文章，结果执行hexo s 的时候却发生了异常. loader：936</code></pre><p><img src="/img/blogImg/encrypt/error.png" alt="异常图片"></p><pre><code>在网上查了很多方法尝试了重新安装和更新npm 结果依然没有什么用应该是安装插件的时候系统误删除了主要文件一系列的排查下发现是npm文件下node_modules文件的问题</code></pre><p><img src="/img/blogImg/encrypt/ZP@600KF5MB6O7~~7U_YT3R.png" alt="错误文件"></p><pre><code>文件下的hexo-cli文件在安装插件的时候被删除掉了</code></pre><p><img src="/img/blogImg/encrypt/15~FH%7D%5BF$I2W%60K%25JT~G74YF.png" alt="错误文件"></p><p>   Tips: 最后重新安装了下hexo才解决问题</p><figure class="highlight plaintext"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">安装代码: npm install -g hexo-cli</span><br></pre></td></tr></table></div></figure>]]></content>
     
     
     <summary type="html">&lt;h2 id=&quot;关于下载hexo-blog-encrypt插件后再次启动hexo报错&quot;   &gt;
           &lt;a href=&quot;#关于下载hexo-blog-encrypt插件后再次启动hexo报错&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#关于下载hexo-blog-encrypt插件后再次启动hexo报错&quot; class=&quot;headerlink&quot; title=&quot;关于下载hexo-blog-encrypt插件后再次启动hexo报错&quot;&gt;&lt;/a&gt;关于下载hexo-blog-encrypt插件后再次启动hexo报错&lt;/h2&gt;
       &lt;pre&gt;&lt;code&gt;下午本来想给博客弄一个加密文章程序,选择了hexo-blog-encrypt插件.
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&quot;/img/blogImg/%E7%A7%81%E5%AF%86%E6%96%87%E7%AB%A0_LI.jpg&quot; alt=&quot;hexo-blog-encrypt插件安装&quot;&gt;&lt;/p&gt;</summary>
+&lt;p&gt;&lt;img src=&quot;/img/blogImg/encrypt/%E7%A7%81%E5%AF%86%E6%96%87%E7%AB%A0_LI.jpg&quot; alt=&quot;hexo-blog-encrypt插件安装&quot;&gt;&lt;/p&gt;</summary>
     
     
     
