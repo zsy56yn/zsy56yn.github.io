@@ -9,7 +9,7 @@ http://alex1504.gitee.io/categories/index.html
 http://alex1504.gitee.io/tags/index.html
 http://alex1504.gitee.io/
 http://alex1504.gitee.io/tags/encrypt%E6%8F%92%E4%BB%B6/
-http://alex1504.gitee.io/tags/Maven/
 http://alex1504.gitee.io/tags/test/
+http://alex1504.gitee.io/tags/Maven/
 http://alex1504.gitee.io/tags/%E4%BA%BA%E6%89%8D/
 http://alex1504.gitee.io/categories/Maven/

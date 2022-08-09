@@ -99,14 +99,14 @@
   </url>
   
   <url>
-    <loc>http://alex1504.gitee.io/tags/Maven/</loc>
+    <loc>http://alex1504.gitee.io/tags/test/</loc>
     <lastmod>2022-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://alex1504.gitee.io/tags/test/</loc>
+    <loc>http://alex1504.gitee.io/tags/Maven/</loc>
     <lastmod>2022-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
