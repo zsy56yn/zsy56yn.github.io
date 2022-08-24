@@ -1,6 +1,6 @@
+http://alex1504.gitee.io/photo/index.html
 http://alex1504.gitee.io/links/index.html
 http://alex1504.gitee.io/user/index.html
-http://alex1504.gitee.io/photo/index.html
 http://alex1504.gitee.io/2022/07/25/7.25%E9%9A%8F%E7%AC%94/
 http://alex1504.gitee.io/2022/07/26/Maven/
 http://alex1504.gitee.io/2022/07/23/hello-world/
@@ -9,7 +9,7 @@ http://alex1504.gitee.io/categories/index.html
 http://alex1504.gitee.io/tags/index.html
 http://alex1504.gitee.io/
 http://alex1504.gitee.io/tags/encrypt%E6%8F%92%E4%BB%B6/
-http://alex1504.gitee.io/tags/test/
 http://alex1504.gitee.io/tags/Maven/
+http://alex1504.gitee.io/tags/test/
 http://alex1504.gitee.io/tags/%E4%BA%BA%E6%89%8D/
 http://alex1504.gitee.io/categories/Maven/
