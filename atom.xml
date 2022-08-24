@@ -67,14 +67,15 @@
     <link href="http://alex1504.gitee.io/2022/07/23/%E6%9D%B0%E5%93%A5%E5%A4%A7%E8%85%B9%E4%BE%BF%E4%BE%BF/"/>
     <id>http://alex1504.gitee.io/2022/07/23/%E6%9D%B0%E5%93%A5%E5%A4%A7%E8%85%B9%E4%BE%BF%E4%BE%BF/</id>
     <published>2022-07-23T08:12:19.000Z</published>
-    <updated>2022-08-24T06:47:46.187Z</updated>
+    <updated>2022-08-24T06:52:37.859Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/img/body2.jpg" alt="这是一张图片"><br>床上一躺</p>]]></content>
+    <content type="html"><![CDATA[<!-- ![这是一张图片](/img/body2.jpg) --><!-- 床上一躺 -->]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/img/body2.jpg&quot; alt=&quot;这是一张图片&quot;&gt;&lt;br&gt;床上一躺&lt;/p&gt;
+    <summary type="html">&lt;!-- ![这是一张图片](/img/body2.jpg) --&gt;
+&lt;!-- 床上一躺 --&gt;
 </summary>
       
     
